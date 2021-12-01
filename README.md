@@ -1,6 +1,6 @@
 # aoc2021
 
-Everyday another random language.
+Everyday another random language. One language can be used 2 times.
 
 Advent of Code: https://adventofcode.com
 
@@ -13,21 +13,9 @@ Advent of Code: https://adventofcode.com
 5.  Scala
 6.  Rust
 7.  Lua
-8.  Haskell
+8.  Haskell    (01.12.2021)
 9.  JavaScript
 10. TypeScript
 11. Python
 12. Go
-13. Lisp
-14. D
-15. Ruby
-16. Clojure
-17. Elixir
-18. F#
-19. Groovy
-20. SPL
-21. Nim
-22. Zig
-23. OCaml
-24. Shell
-25. Julia
+13. Zig
