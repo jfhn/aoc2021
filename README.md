@@ -6,16 +6,18 @@ Advent of Code: https://adventofcode.com
 
 ## Languages
 
-1.  C
-2.  C++
-3.  Java
-4.  Kotlin
-5.  Scala
-6.  Rust
-7.  Lua
-8.  Haskell    (01.12.2021)
-9.  JavaScript
-10. TypeScript
-11. Python
-12. Go
-13. Zig
+|  Language  | First use | Second use |
+|------------|-----------|------------|
+|     C      |           |            |
+|    C++     |           |            |
+|    Java    |           |            |
+|   Kotlin   |           |            |
+|   Scala    |           |            |
+|    Rust    |           |            |
+|    Lua     |           |            |
+|  Haskell   | 01.12.21  |            |
+| JavaScript |           |            |
+| TypeScript |           |            |
+|   Python   |           |            |
+|     Go     |           |            |
+|    Zig     |           |            |
