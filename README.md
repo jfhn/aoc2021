@@ -15,7 +15,7 @@ Advent of Code: https://adventofcode.com
 |   Scala    |           |            |
 |    Rust    |           |            |
 |    Lua     |           |            |
-|  Haskell   | 01.12.21  |            |
+|  Haskell   | 01.12.21  |  02.12.21  |
 | JavaScript |           |            |
 | TypeScript |           |            |
 |   Python   |           |            |
