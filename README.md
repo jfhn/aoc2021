@@ -19,5 +19,5 @@ Advent of Code: https://adventofcode.com
 | JavaScript |           |            |
 | TypeScript |           |            |
 |   Python   |           |            |
-|     Go     |           |            |
+|     Go     | 03.12.21  |            |
 |    Zig     |           |            |
