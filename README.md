@@ -11,7 +11,7 @@ Advent of Code: https://adventofcode.com
 |     C      |           |            |
 |    C++     |           |            |
 |    Java    |           |            |
-|   Kotlin   |           |            |
+|   Kotlin   | 04.12.21  |            |
 |   Scala    |           |            |
 |    Rust    |           |            |
 |    Lua     |           |            |
