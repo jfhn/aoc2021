@@ -20,4 +20,4 @@ Advent of Code: https://adventofcode.com
 | TypeScript |           |            |
 |   Python   |           |            |
 |     Go     | 03.12.21  |            |
-|    Zig     |           |            |
+|     F#     | 06.12.21  |            |
