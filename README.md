@@ -18,6 +18,6 @@ Advent of Code: https://adventofcode.com
 |  Haskell   | 01.12.21  |  02.12.21  |
 | JavaScript |           |            |
 | TypeScript |           |            |
-|   Python   |           |            |
+|   Python   | 07.12.21  |            |
 |     Go     | 03.12.21  |            |
 |     F#     | 06.12.21  |            |
