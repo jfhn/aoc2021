@@ -9,7 +9,7 @@ Advent of Code: https://adventofcode.com
 |  Language  | First use | Second use |
 |------------|-----------|------------|
 |     C      |           |            |
-|    C++     | 05.12.21  |            |
+|    C++     | 05.12.21  | 08.12.21   |
 |    Java    |           |            |
 |   Kotlin   | 04.12.21  |            |
 |   Scala    |           |            |
