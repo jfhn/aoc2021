@@ -10,7 +10,7 @@ Advent of Code: https://adventofcode.com
 |------------|-----------|------------|
 |     C      |           |            |
 |    C++     | 05.12.21  | 08.12.21   |
-|    Java    |           |            |
+|    Java    | 09.12.21  |            |
 |   Kotlin   | 04.12.21  |            |
 |   Scala    |           |            |
 |    Rust    |           |            |
